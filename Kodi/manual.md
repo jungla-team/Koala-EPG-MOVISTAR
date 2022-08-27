@@ -1,4 +1,4 @@
-## Koala EPG en Kodi
+## Koala EPG en APPS y KODI
 
 Kodi es un media center para diferentes plataformas, que con la instalacion de diferentes addons nos permite la visualizacion de canales en vivo, muchos de estos addons  permiten insertar url de epg para obtener la guia de programas de estos canales en vivo, **Koala epg proporciona estos sources epg**, para soporte y ayuda nos podeis encontrar:
 *   **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
