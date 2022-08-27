@@ -20,3 +20,4 @@ Koala epg esta diseñado para obtener el EPG (guia de eventos), de la plataforma
 
 Todas las versiones de KOALA-EPG llevan insertada una modificacion que nos **permite visualizar mediante caracteres tipo estrella** en el epg, la valoracion que votan los abonados a Movistar+ sobre los diferentes eventos.
 
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/epg1.jpeg)
