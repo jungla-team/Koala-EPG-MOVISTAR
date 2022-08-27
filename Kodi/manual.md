@@ -14,7 +14,7 @@ La descarga del epg koala  **es gratuita**, no obstante si te gusta y deseas col
 
 Koala epg esta diseñado para obtener el EPG (guia de eventos), de la plataforma Movistar+, donde ponemos a disposición de los usuarios diferentes opciones de visualizacion para los addons de kodi.
 
- - **Visualizacion de 3 dias clasico sin color, con poster, sin fanart (solo xteve pausar en HDHomerun)** 
+ - **Visualizacion de 3 dias clasico sin color, con poster, sin fanart (solo xteve para usar en HDHomerun)** 
 
 > http://tropical.jungle-team.online/epg/koala3.xml.gz
 
