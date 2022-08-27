@@ -68,9 +68,15 @@ Automaticamente comenzara la descarga de eventos mostrandonos el proceso asi com
 ![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/7.jpeg)
 
 ## Capturas de pantalla
-![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/8.jpeg)
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/10.jpeg)
 
-![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/9.jpeg)
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/11.jpeg)
+
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/12.jpeg)
+
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/13.jpeg)
+
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/14.jpeg)
 
 ## Borrar epg
 Si deseamos borrar el epg descargado, en el caso que observemos algun compartamiento erratico lo mas recomendable es realizarlo mediante comando tras conectarnos al receptor enigma2 por terminal, para ello realizamos lo siguiente.
