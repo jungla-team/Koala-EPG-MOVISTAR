@@ -67,6 +67,27 @@ Automaticamente comenzara la descarga de eventos mostrandonos el proceso asi com
 
 ![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/7.jpeg)
 
+## Desactivar EIT
+Las imagenes enigma2 por defecto tienen activado lo que se denomina EIT, que el evento actual y siguiente los datos del epg lo muestran a traves del transponedor y no del epg xmltv descargado, para evitar en caso que lo deseemos esta circustancia vamos a realizar lo siguiente.
+
+**Paso 1:** Accedemos al menu epg de la imagen que tengamos instalada.
+
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/20.jpeg)
+
+**Paso 2:** Pulsamos en configuracion
+
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/21.jpeg)
+
+**Paso 3:** Debemos deshabilitar las opciones:
+
+ - Mostrar EIT ahora/siguiente en la barra informacion
+ - Habilitar EPG EIT
+
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/23.jpeg)
+
+![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/24.jpeg)
+
+
 ## Capturas de pantalla
 ![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/10.jpeg)
 
