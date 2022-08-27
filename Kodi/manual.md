@@ -22,7 +22,7 @@ Koala epg esta diseñado para obtener el EPG (guia de eventos), de la plataforma
 
 > http://tropical.jungle-team.online/epg/koala_ottc.xml.gz
 
- - **Visualizacion de 7 dias sin color y con poster(recomendado en apps)**
+ - **Visualizacion de 7 dias sin color y con poster (recomendado en apps)**
 
 > http://tropical.jungle-team.online/epg/koala7.xml.gz
 
