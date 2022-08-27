@@ -18,7 +18,7 @@ Koala epg esta diseñado para obtener el EPG (guia de eventos), de la plataforma
 
 > http://tropical.jungle-team.online/epg/koala3.xml.gz
 
- - **Visualizacion de 3 dias color y fanart (recomendado kodi)**
+ - **Visualizacion de 3 dias color y fanart (recomendado kodi,ottnavigator)**
 
 > http://tropical.jungle-team.online/epg/koala_ottc.xml.gz
 
