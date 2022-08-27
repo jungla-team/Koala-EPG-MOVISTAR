@@ -94,4 +94,4 @@ Paso 4: Una vez borrado, volvemos a arrancar enigma2:
 ## Creditos
 
  - **Developer:** @biturbo69
- - **Ayudante de camara:** Тайна го
+ - **Ayudante de camara:** @Тайна го
