@@ -1,4 +1,4 @@
-## Koala EPG en APPS y KODI
+## Koala EPG en KODI
 
 Kodi es un media center para diferentes plataformas, que con la instalacion de diferentes addons nos permite la visualizacion de canales en vivo, muchos de estos addons  permiten insertar url de epg para obtener la guia de programas de estos canales en vivo, **Koala epg proporciona estos sources epg**, para soporte y ayuda nos podeis encontrar:
 *   **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
@@ -14,19 +14,19 @@ La descarga del epg koala  **es gratuita**, no obstante si te gusta y deseas col
 
 Koala epg esta diseñado para obtener el EPG (guia de eventos), de la plataforma Movistar+, donde ponemos a disposición de los usuarios diferentes opciones de visualizacion para los addons de kodi.
 
- - **Visualizacion de 3 dias clasico sin color, con poster, sin fanart (solo xteve para usar en HDHomerun)** 
+ - **Visualizacion de 3 dias clasico sin color, con poster, sin fanart** 
 
 > http://tropical.jungle-team.online/epg/koala3.xml.gz
 
- - **Visualizacion de 3 dias color y fanart (solo kodi,ottnavigator)**
+ - **Visualizacion de 3 dias color y fanart (recomendado KODI)**
 
 > http://tropical.jungle-team.online/epg/koala_ottc.xml.gz
 
- - **Visualizacion de 7 dias sin color y con poster (recomendado en apps)**
+ - **Visualizacion de 7 dias sin color y con poster**
 
 > http://tropical.jungle-team.online/epg/koala7.xml.gz
 
- - **Visualizacion de 7 dias con color y con poster (solo kodi)**
+ - **Visualizacion de 7 dias con color y con poster (recomendado KODI)**
 
 > http://tropical.jungle-team.online/epg/koala7_3.xml.gz
 
