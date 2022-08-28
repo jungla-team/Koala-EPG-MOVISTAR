@@ -2,7 +2,7 @@
 
 ## Sources EPG Koala
 
- - **Visualizacion de 3 dias color y fanart (recomendado OTTNAVIGATOR)**
+ - **Visualizacion de 3 dias sin color y fanart (recomendado OTTNAVIGATOR)**
 
 > http://tropical.jungle-team.online/epg/koala_ottc.xml.gz
 
