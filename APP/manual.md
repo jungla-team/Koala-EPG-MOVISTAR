@@ -9,7 +9,7 @@
 ![enter image description here](https://github.com/jungla-team/Koala-EPG-MOVISTAR/blob/main/APP/capturas-manual/Captura%20de%20pantalla%202022-08-28%20225724.png?raw=true)
 
 
- - **Visualizacion de 7 y 3 dias sin color(recomendado para el resto de APPS)**
+ - **Visualizacion de 7 y 3 dias sin color (recomendado para el resto de APPS)**
 
 > http://tropical.jungle-team.online/epg/koala7.xml.gz
 
