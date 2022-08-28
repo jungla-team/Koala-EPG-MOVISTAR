@@ -18,9 +18,13 @@ Koala epg esta diseñado para obtener el EPG (guia de eventos), de la plataforma
 
 > http://tropical.jungle-team.online/epg/koala_ottc.xml.gz
 
+![enter image description here](https://github.com/jungla-team/Koala-EPG-MOVISTAR/blob/main/Kodi/capturas-manual/Captura%20de%20pantalla%202022-08-28%20230826.png?raw=true)
+
  - **Visualizacion de 7 dias con color y con poster (recomendado KODI)**
 
 > http://tropical.jungle-team.online/epg/koala7_3.xml.gz
+
+![enter image description here](https://github.com/jungla-team/Koala-EPG-MOVISTAR/blob/main/Kodi/capturas-manual/Captura%20de%20pantalla%202022-08-28%20230540.png?raw=true)
 
 Todas las versiones de KOALA-EPG llevan insertada una modificacion que nos **permite visualizar mediante caracteres tipo estrella** en el epg, la valoracion que votan los abonados a Movistar+ sobre los diferentes eventos.
 
