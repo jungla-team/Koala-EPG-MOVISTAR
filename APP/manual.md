@@ -1,5 +1,16 @@
 ## Koala EPG en APLICACIONES Android/IOS/Windows etc etc
 
+
+**Koala epg proporciona estos sources epg**, para soporte y ayuda nos podeis encontrar:
+*   **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
+*   **Web oficial jungle-team:** https://jungle-team.com/
+
+
+## Colabora con el projecto
+La descarga del epg koala  **es gratuita**, no obstante si te gusta y deseas colaborar Para el mantenimiento de los servidores y Blog que gestiona jungle-team puedes realizar una donacion:
+
+## [![](https://jungle-team.com/wp-content/uploads/2022/08/paypal-logo-4.png)](https://www.paypal.me/jungleteam)
+
 ## Sources EPG Koala
 
  - **Visualizacion de 3 dias sin color y fanart (recomendado OTTNAVIGATOR)**
@@ -23,9 +34,3 @@ Todas las versiones de KOALA-EPG llevan insertada una modificacion que nos **per
 
  - **Developer:** @biturbo69
  - **Ayudante de camara:** @Тайна го
-
-
-## Colabora con el projecto
-La descarga del epg koala  **es gratuita**, no obstante si te gusta y deseas colaborar Para el mantenimiento de los servidores y Blog que gestiona jungle-team puedes realizar una donacion:
-
-## [![](https://jungle-team.com/wp-content/uploads/2022/08/paypal-logo-4.png)](https://www.paypal.me/jungleteam)
