@@ -10,9 +10,9 @@ La descarga del epg koala  **es gratuita**, no obstante si te gusta y deseas col
 ## [![](https://jungle-team.com/wp-content/uploads/2022/08/paypal-logo-4.png)](https://www.paypal.me/jungleteam)
 
 
--   **Visualizacion de 3 dias sin color, con poster **
+-  **Visualizacion de 3 dias sin color, con poster**
 
--   Sin comprimir para apps de smartTV y XTEVE para luego usarla con Plex etc.... (xteve NO MAPEA los canales automaticamente. para esa labor usar la parte hdhomerun de GHOSTREAMY.
+Sin comprimir para apps de smartTV y XTEVE para luego usarla con Plex etc.... (xteve NO MAPEA los canales automaticamente. para esa labor usar la parte hdhomerun de GHOSTREAMY.
 
 > http://tropical.jungle-team.online/epg/koala3.xml
 
