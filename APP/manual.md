@@ -1,4 +1,4 @@
-## Koala EPG en APLICACIONES Android/IOS/Wwindows etc etc
+## Koala EPG en APLICACIONES Android/IOS/Windows etc etc
 
 ## Sources EPG Koala
 
