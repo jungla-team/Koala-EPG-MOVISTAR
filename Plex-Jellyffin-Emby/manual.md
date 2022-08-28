@@ -1,4 +1,4 @@
-## Koala EPG en appsSMARTTV - Plex/Jellyffin/Emby
+## Koala EPG en appSMARTTV - Plex/Jellyffin/Emby
 
 **Koala epg proporciona estos sources epg**, para soporte y ayuda nos podeis encontrar:
 *   **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
