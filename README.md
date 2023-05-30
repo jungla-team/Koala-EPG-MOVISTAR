@@ -1,2 +1,2 @@
-# Koala-EPG-MOVISTAR
-Koala EPG movistar para distintas plataformas
+# Koala-EPG
+Koala EPG para distintas plataformas
