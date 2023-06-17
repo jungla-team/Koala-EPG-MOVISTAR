@@ -53,6 +53,8 @@ Para obtener el epg de los canales de movistar con epg-Koala, una vez hemos real
 
 **Paso 2:** Tras acceder a la interfaz grafica de epgimport, pulsamos boton azul para seleccionar las fuentes koala el tipo epg que deseamos usar
 
+*   IMPORTANTE ACTIVAR DESCARGA AUTOMATICA a la siguienta HORA : 13:45
+
 ![enter image description here](https://raw.githubusercontent.com/jungla-team/Koala-EPG-MOVISTAR/main/Enigma2-epgimport/capturas-manual/3.jpeg)
 
 **Paso 3:** Tras pulsar boton azul, como hemos comentado marcamos el tipo de epg koala que deseamos usar
