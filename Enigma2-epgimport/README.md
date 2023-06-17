@@ -1,6 +1,6 @@
 ## Koala EPG en EPGIMPORT Enigma2
 
-*   IMPORTANTE: ACTIVAR DESCARGA AUTOMATICA a la siguienta HORA 13:45
+*   IMPORTANTE ACTIVAR DESCARGA AUTOMATICA a la siguienta HORA : 13:45
 
 Epgimport es un plugins para receptores enigma2 que nos permite crear listado de programacion de los canales TV a traves de un archivo XMLTV, para soporte y ayuda nos podeis encontrar:
 *   **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
