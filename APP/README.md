@@ -13,7 +13,7 @@ La descarga del epg koala  **es gratuita**, no obstante si te gusta y deseas col
 
 ## Sources EPG Koala
 
- - **Visualizacion de 7 y 3 dias
+ - **Visualizacion de 7 dias**
 
 > http://tropical.jungle-team.online/epg/koala7.xml.gz
 
