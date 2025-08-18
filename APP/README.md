@@ -1,7 +1,7 @@
 ## Koala EPG en APLICACIONES de Android
 
 
-Koala epg proporciona estos sources epg**, para soporte y ayuda nos podeis encontrar:
+Para soporte y ayuda nos podeis encontrar:
    **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
    **Web oficial jungle-team:** https://jungle-team.com/
 
